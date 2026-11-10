@@ -1,0 +1,13 @@
+file_a,file_b,split_a,split_b,hamming_distance,exact_pixel_match,mean_absolute_error,changed_pixels_percent
+BX5AWD0QJ8.jpg,CIW6L52ECX.jpg,train,valid,0,False,9.281,32.95
+NDI9YL2AKI.jpg,MAAN48Y5KR.jpg,train,valid,2,False,8.124,30.38
+PWBE4N5FJ4.jpg,DF3VJDSVB0.jpg,train,valid,2,False,10.151,37.1
+QYICJ7YJFZ.jpg,J6K7450NNH.jpg,train,valid,2,False,8.093,30.82
+RVJ0MVQ39C.jpg,F6MDU1OEOM.jpg,train,valid,2,False,7.5,26.62
+T5SS3DFPB6.jpg,B1LM9B5OHH.jpg,train,valid,2,False,6.495,19.3
+VDCC620JF9.jpg,DPUKSPUI3J.jpg,train,valid,2,False,4.445,12.33
+6ZNFDF45JN.jpg,8JO0REEL4Z.jpg,train,test,0,False,6.107,21.41
+K05XS40MG1.jpg,349371T35Y.jpg,train,test,2,False,13.396,40.19
+SP6KJL28LI.jpg,8BT65PKMR2.jpg,train,test,2,False,10.879,45.16
+ZPBVW03Q1F.jpg,8JO0REEL4Z.jpg,train,test,0,False,5.857,20.88
+EY82EU7D7W.jpg,47HHGFEON8.jpg,valid,test,2,False,6.458,20.35

@@ -1,0 +1,11 @@
+CUSTOM CNN VS XCEPTION
+======================
+
+Dataset: Real vs Fake Faces
+Test images: 1000
+
+Accuracy: Custom CNN = 0.8340, Xception = 0.9900
+Precision: Custom CNN = 0.8795, Xception = 0.9880
+Recall: Custom CNN = 0.7740, Xception = 0.9920
+F1 Score: Custom CNN = 0.8234, Xception = 0.9900
+ROC-AUC: Custom CNN = 0.9201, Xception = 0.9996
